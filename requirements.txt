@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchain-openai
+fpdf
+IPython
+openai
