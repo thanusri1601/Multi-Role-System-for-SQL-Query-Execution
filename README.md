@@ -27,7 +27,7 @@ Configuration details regarding the chunking strategy, embedding models, and vec
   
   ## Project Report
 
-📥 *[Click here to view the Project Report (PDF)](assets/Report(3).pdf)**
+📥 *[Click here to view the Project Report (PDF)](assets/report(3).pdf)*
 
 </p>
 
