@@ -147,7 +147,7 @@ This project is deployed on an AWS EC2 Ubuntu instance.
  
 
 ## Live Deployment
-http://54.237.214.22:8501/
+(http://54.237.214.22:8501/)
 
 ## Output
 
