@@ -11,7 +11,7 @@ Configuration details regarding the chunking strategy, embedding models, and vec
 ## Workflow Graph
 
 <p align="center">
-  <img src="assets/image33.png" width="200">
+  <img src="assets/image33.png" width="550">
 </p>
 
 ---
@@ -19,7 +19,7 @@ Configuration details regarding the chunking strategy, embedding models, and vec
 ## AWS Deployment Screenshot
 <p align="center">
    
-  <img src="assets/image4.jpeg" width="550">
+  <img src="assets/image4.jpeg" width="800">
 </p>
 
  
@@ -27,7 +27,7 @@ Configuration details regarding the chunking strategy, embedding models, and vec
   
   ## Project Report
 
-📥 *[Click here to view the full CRAG Project Report (PDF)](assets/CRAG_Report.pdf)**
+📥 *[Click here to view the Project Report (PDF)](assets/Report(3).pdf)**
 
 </p>
 
