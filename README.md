@@ -19,6 +19,13 @@ The backend is orchestrated with **LangGraph** and uses **OpenAI chat models** v
 
 ---
 
+## Infographic
+
+<p align="center">
+  <img src="assets/image33.png" width="550">
+</p>
+
+
 ## AWS Deployment Screenshot
 <p align="center">
    
@@ -33,6 +40,8 @@ The backend is orchestrated with **LangGraph** and uses **OpenAI chat models** v
 📥 *[Click here to view the Project Report (PDF)](assets/report(3).pdf)*
 
 </p>
+
+
 
 ## What’s inside
 
