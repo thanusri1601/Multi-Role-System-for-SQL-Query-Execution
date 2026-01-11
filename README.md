@@ -147,6 +147,12 @@ This project is deployed on an AWS EC2 Ubuntu instance.
  
 
 ## Live Deployment
+Deployment Status: Temporarily offline  
+
+The application was successfully deployed on AWS EC2 and verified end-to-end.  
+The live instance is currently paused to avoid ongoing cloud resource costs.  
+Deployment can be reactivated at any time.
+
 (http://54.237.214.22:8501/)
 
 ## Output
