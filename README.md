@@ -1,4 +1,4 @@
-# CRAG: Corrective Retrieval-Augmented Generation System
+# Multi Role System for SQL Query Execution
 
 This project implements a Corrective Retrieval-Augmented Generation (CRAG) architecture to improve the factual reliability of large language model (LLM) responses. The system ingests content from a curated set of technical websites focused on agentic systems, prompt engineering, and advanced LLM concepts. Web data is programmatically scraped using BeautifulSoup, preprocessed, and segmented using configurable chunking strategies before being embedded and stored in a vector database.
 
@@ -11,23 +11,24 @@ Configuration details regarding the chunking strategy, embedding models, and vec
 ## Workflow Graph
 
 <p align="center">
-  <img src="assets/image.png" width="200">
+  <img src="assets/image33.png" width="200">
 </p>
 
 ---
 
 ## AWS Deployment Screenshot
-### start -> retrieve -> grade_documents -> generate -> end
 <p align="center">
    
-  <img src="assets/output1.jpeg" width="550">
+  <img src="assets/image4.jpeg" width="550">
 </p>
 
-
-### start -> retrieve -> grade_documents -> transform_query -> web_search_node -> generate -> end 
+ 
 <p align="center">
   
-  <img src="assets/output2.jpeg" width="550">
+  ## Project Report
+
+📥 *[Click here to view the full CRAG Project Report (PDF)](assets/CRAG_Report.pdf)**
+
 </p>
 
 ---
