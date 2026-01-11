@@ -95,24 +95,23 @@ Python packages:
 
 ---
 
+
 ## Setup
 
-### Create and activate a virtual environment
-```bash
-python -m venv .venv
-source .venv/bin/activate  # macOS/Linux
-
-
----
-
-### Clone the Repository
+### 1. Clone the Repository
 git clone (https://github.com/thanusri1601/Multi-Role-System-for-SQL-Query-Execution.git)  
 cd ~Multi_agent
 
+---
+
+### 2. Create Virtual Environment
+python3 -m venv venv  
+source venv/bin/activate  
+
 
 ---
 
-### Install Dependencies
+### 3. Install Dependencies
 pip install --upgrade pip  
 pip install -r requirements.txt  
 
@@ -136,18 +135,16 @@ This project is deployed on an AWS EC2 Ubuntu instance.
 4. Create and activate a Python virtual environment  
 5. Install required dependencies  
 6. Run the Streamlit application  
-
-Run the application on EC2 using:
-streamlit run app.py --server.port 8501 --server.address 0.0.0.0  
+ 
 
 ## Live Deployment
-http://ec2-3-91-215-180.compute-1.amazonaws.com:8501/
+http://54.237.214.22:8501/
 
 ## Output
 
 - Interactive Streamlit-based user interface  
-- Multi-agent workflow  
-- Reduced hallucinations through validation and corrective retrieval, execution, summarization and downloadable report 
+- Corrective Retrieval-Augmented Generation workflow  
+- Reduced hallucinations through validation and corrective retrieval  
 - Publicly accessible AWS EC2 deployment  
 
 ---
@@ -164,7 +161,18 @@ http://ec2-3-91-215-180.compute-1.amazonaws.com:8501/
 
 ---
 
+## Key Contributions
+
+- Interactive Streamlit-based user interface  
+- Multi-agent workflow  
+- Reduced hallucinations through validation and corrective retrieval, execution, summarization and downloadable report 
+- Publicly accessible AWS EC2 deployment  
+
+---
 
 ## Author
 
 Thanusri A  
+
+
+
