@@ -22,7 +22,7 @@ The backend is orchestrated with **LangGraph** and uses **OpenAI chat models** v
 ## Infographic
 
 <p align="center">
-  <img src="assets/image33.png" width="550">
+  <img src="assets/infographic2.png" width="550">
 </p>
 
 
